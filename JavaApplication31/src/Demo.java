@@ -11,6 +11,7 @@ public class Demo {
 
     public Demo() {
         System.out.println("Hello");
+        System.out.println("aaa");
     }
     
 }
