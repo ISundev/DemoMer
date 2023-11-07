@@ -11,6 +11,10 @@ public class Demo {
 
     public Demo() {
         System.out.println("Hello");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
     }
     
 }
